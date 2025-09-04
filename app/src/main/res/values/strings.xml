@@ -5,4 +5,5 @@
     <string name="button_name_value">Submit</string>
     <string name="name_greet">My name is: </string>
     <string name="name_empty">Field is empty!</string>
+    <string name="error_message">Error!</string>
 </resources>
